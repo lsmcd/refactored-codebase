@@ -6,7 +6,7 @@ This is a refactored version of the bootcamp code in [Credits](#credits) using a
 
 ## Installation
 
-Assuming you have Git installed run the command "git clone https://github.com/lsmcd/refactored-codebase" arlternatively download the code as a .zip file and extract it.
+Assuming you have Git installed run the command "git clone https://github.com/lsmcd/refactored-codebase" alternatively download the code as a .zip file and extract it.
 
 ## Usage
 
