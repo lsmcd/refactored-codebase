@@ -6,11 +6,11 @@ This is a refactored version of the bootcamp code in [Credits](#credits) using a
 
 ## Installation
 
-Assuming you have Git installed run the command "git clone https://github.com/lsmcd/refactored-codebase" and run the "index.html" file in your web browser. Alternatively download the code as a .zip file and extract it, then run the "index.html" file in a web browser.
+Assuming you have Git installed run the command "git clone https://github.com/lsmcd/refactored-codebase" arlternatively download the code as a .zip file and extract it.
 
 ## Usage
 
-Run the index.html file
+Run the index.html file in your web browser of choice.
 
 ## Credits [](#credits)
 
